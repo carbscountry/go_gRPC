@@ -1,0 +1,2 @@
+# go_gRPC
+udemyのGo言語で学ぶ実践gRPC入門講座の実践リポ
